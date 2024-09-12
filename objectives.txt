@@ -22,6 +22,3 @@ The method to develop the rover is the vmodel top down aproach in which
 [O3]
 The development must be capable to maintain several parallel builds in different stages
 and to allow parallel development on different snapshots without getting confused.
-
-
-
